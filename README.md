@@ -4,14 +4,6 @@ SelfStudyGuide
 
 The guide shall contain my journey towards learning (Will keep adding as I make progress)
 
-    a. Front End - React
-    b. Backend development with Java Spring
-    c. Database 
-    
-     a. Writing production level python code.
-     b. Pytorch + Huggingface
-     c. Apache Spark, Pyspark
-     d. Scikit Learn
 
 --------------------------------Bread earners----------------------------------------------------
 
